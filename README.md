@@ -19,4 +19,4 @@ Na koj bilo nacin da presmetuvam ispagja deka ciklomatskata kompleksnost
 e 6.
 
 ##Slika od grafot:
-![Picture](SI_Lab2_Zad2.png)
+![Picture](SI_Lab2_Zad2.jpg)
